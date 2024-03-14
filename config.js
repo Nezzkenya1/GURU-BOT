@@ -14,8 +14,8 @@ global.owner = [
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['917605902011','32460248586'] 
-global.prems = ['917605902011', '32460248586', '919398758484']
+global.mods = ['254101468231','254702670625'] 
+global.prems = ['254101468231','254702670625']
 global.allowed = ['917605902011', '32460248586', '19152999993']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -57,7 +57,7 @@ global.author = '@Asliguru'
 global.menuvid = 'https://telegra.ph/file/f2506d3b5b6cb002ed431.jpg'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/_.mogambi\n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
+global.fgsc = 'https://github.com/nezzkenya/nezz' 
 global.fgyt = ''
 global.fgpyp = ''
 global.fglog = 'https://telegra.ph/file/f2506d3b5b6cb002ed431.jpg' 
