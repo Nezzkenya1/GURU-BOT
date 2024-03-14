@@ -564,7 +564,7 @@ export async function participantsUpdate({
                   )}&memberCount=${encodeURIComponent(
                     nthMember.toString()
                   )}&avatar=${encodeURIComponent(pp)}&background=${encodeURIComponent(
-                    'https://cdn.wallpapersafari.com/71/19/7ZfcpT.png'
+                    'https://telegra.ph/file/f2506d3b5b6cb002ed431.jpg'
                   )}`;
           
                   try {
@@ -579,7 +579,7 @@ export async function participantsUpdate({
                         title: "ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ",
                         body: "welcome to Group",
                         thumbnailUrl: welcomeApiUrl,
-                        sourceUrl: 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA',
+                        sourceUrl: 'https://chat.whatsapp.com/Cns6QZpH763DoLVVP9zNsv',
                         mediaType: 1,
                         renderLargerThumbnail: true
                         }}})
@@ -617,7 +617,7 @@ export async function participantsUpdate({
                   )}&memberCount=${encodeURIComponent(
                     nthMember.toString()
                   )}&avatar=${encodeURIComponent(pp)}&background=${encodeURIComponent(
-                    'https://cdn.wallpapersafari.com/71/19/7ZfcpT.png'
+                    'https://telegra.ph/file/f2506d3b5b6cb002ed431.jpg'
                   )}`;
           
                   try {
@@ -629,7 +629,7 @@ export async function participantsUpdate({
                         contextInfo: {
                         mentionedJid: [user],
                         externalAdReply: {
-                        title: "ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ",
+                        title: "ᴛʜᴇ NEZZ-ʙᴏᴛ",
                         body: "Goodbye from  Group",
                         thumbnailUrl: leaveApiUrl,
                         sourceUrl: 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA',
